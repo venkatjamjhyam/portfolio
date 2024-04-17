@@ -44,6 +44,37 @@ body {
   .project {
     margin-bottom: 20px;
   }
+.learn-more-btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.learn-more-btn:hover {
+  background-color: #0056b3;
+}
+
+
+.skills-box {
+  border: 2px solid #ddd; /* Border style */
+  padding: 20px; /* Padding around the content */
+  background-color: #f9f9f9; /* Background color */
+  border-radius: 5px; /* Rounded corners */
+}
+
+.skills-box ul {
+  list-style-type: none; /* Remove default list styles */
+  padding: 0; /* Remove default padding */
+}
+
+.skills-box ul li {
+  margin-bottom: 10px; /* Add spacing between list items */
+}
+
   
   footer {
     background-color: #333;
