@@ -59,18 +59,18 @@ body {
 }
 
 
-.education-box {
+.Bachelor's Degree-box {
   border: 2px solid #ddd; /* Border style */
   padding: 20px; /* Padding around the content */
   background-color: #fffafa; /* Background color */
   border-radius: 5px; /* Rounded corners */
 }
 
-.education-box ul {
+.Bachelor's Degree-box ul {
   list-style-type: none; /* Remove default list styles */
   padding: 0; /* Remove default padding */
 }
-.education-box ul li {
+.Bachelor's Degree-box ul li {
   margin-bottom: 10px; /* Add spacing between list items */
 }
 
