@@ -59,6 +59,36 @@ body {
 }
 
 
+.education-box {
+  border: 2px solid #ddd; /* Border style */
+  padding: 20px; /* Padding around the content */
+  background-color: #fffafa; /* Background color */
+  border-radius: 5px; /* Rounded corners */
+}
+
+.education-box ul {
+  list-style-type: none; /* Remove default list styles */
+  padding: 0; /* Remove default padding */
+}
+.education-box ul li {
+  margin-bottom: 10px; /* Add spacing between list items */
+}
+
+.projects-box {
+  border: 2px solid #ddd; /* Border style */
+  padding: 20px; /* Padding around the content */
+  background-color: #fffafa; /* Background color */
+  border-radius: 5px; /* Rounded corners */
+}
+
+.projects-box ul {
+  list-style-type: none; /* Remove default list styles */
+  padding: 0; /* Remove default padding */
+}
+.projects-box ul li {
+  margin-bottom: 10px; /* Add spacing between list items */
+}
+
 .skills-box {
   border: 2px solid #ddd; /* Border style */
   padding: 20px; /* Padding around the content */
@@ -70,7 +100,6 @@ body {
   list-style-type: none; /* Remove default list styles */
   padding: 0; /* Remove default padding */
 }
-
 .skills-box ul li {
   margin-bottom: 10px; /* Add spacing between list items */
 }
