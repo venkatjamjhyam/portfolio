@@ -13,7 +13,82 @@ body {
       padding-bottom: 5px; /* Add some spacing below the underline */
       text-align: center;
     }
-  
+
+
+.skills-box {
+  border: 2px solid #ddd; /* Border style */
+  padding: 20px; /* Padding around the content */
+  background-color: #f9f9f9; /* Background color */
+  border-radius: 5px; /* Rounded corners */
+}
+
+.skills-box ul {
+  list-style-type: none; /* Remove default list styles */
+  padding: 0; /* Remove default padding */
+}
+
+.skills-box ul li {
+  margin-bottom: 10px; /* Add spacing between list items */
+}
+
+.project-box {
+  border: 2px solid #ddd; /* Border style */
+  padding: 20px; /* Padding around the content */
+  margin-bottom: 20px; /* Add spacing between project boxes */
+  border-radius: 5px; /* Rounded corners */
+}
+
+.project {
+  margin-bottom: 20px; /* Add spacing between projects */
+}
+
+.project h3 {
+  margin-top: 0; /* Remove default margin */
+}
+
+.project p {
+  margin-bottom: 10px; /* Add spacing between paragraphs */
+}
+
+.learn-more-btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.learn-more-btn:hover {
+  background-color: #0056b3;
+}
+
+.education-box {
+  border: 2px solid #ddd; /* Border style */
+  padding: 20px; /* Padding around the content */
+  margin-bottom: 20px; /* Add spacing between education boxes */
+  border-radius: 5px; /* Rounded corners */
+}
+
+.education-item {
+  margin-bottom: 20px; /* Add spacing between education items */
+}
+
+.education-item h3 {
+  margin-top: 0; /* Remove default margin */
+}
+
+.education-item p {
+  margin-bottom: 10px; /* Add spacing between paragraphs */
+}
+
+.about-box {
+  border: 2px solid #ddd; /* Border style */
+  padding: 20px; /* Padding around the content */
+  border-radius: 5px; /* Rounded corners */
+}
+
   header {
     background-color: #201d1d;
     color: #fffafa;
