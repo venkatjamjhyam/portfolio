@@ -111,8 +111,8 @@ body {
 
   header nav ul li {
     display:inline;
-    margin-right: 45px;
-    margin-left: 45px;
+    margin-right: 35px;
+    margin-left: 35px;
   } 
   .section {
     display: flex;
