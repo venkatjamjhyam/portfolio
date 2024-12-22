@@ -34,7 +34,7 @@ body {
 .project-box {
   border: 2px solid #ddd; /* Border style */
   padding: 20px; /* Padding around the content */
-  margin-bottom: 0px; /* Add spacing between project boxes */
+  margin-bottom: 10px; /* Add spacing between project boxes */
   border-radius: 5px; /* Rounded corners */
   background-color: #eee9e9;
 }
