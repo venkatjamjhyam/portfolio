@@ -122,6 +122,41 @@ body {
   .project {
     margin-bottom: 20px;
   }
+#contact {
+    background-color: #f9f9f9;
+    padding: 80px 0;
+    text-align: center;
+}
+
+.contact-content {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.contact-content h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 40px;
+}
+
+.contact-details {
+    text-align: left;
+}
+
+.contact-details p {
+    color: #666;
+    margin-bottom: 20px;
+}
+
+.contact-details a {
+    color: #007bff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.contact-details a:hover {
+    color: #0056b3;
+}
 
 
   footer {
